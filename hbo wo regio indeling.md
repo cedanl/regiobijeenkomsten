@@ -26,7 +26,7 @@ Gezamenlijke arbeidsmarktregio’s (Health, Tech, Maakindustrie) | Veel praktijk
 
 Nationaal OV-knooppunt | Veel landelijke netwerken zitten hier | Compacte regio → hoge opkomstkans
 
-**Regio Randstad west** of 
+**Regio Randstad (West)** 
 - UvA 
 - VU 
 - Universiteit Leiden (locatie)
