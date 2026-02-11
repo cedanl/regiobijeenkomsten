@@ -24,3 +24,10 @@
 | 15    | 16    | 17    | 18    | 19    | 20    | 21    |
 | 22    | 23    | 24    | 25    | 26    | 27    | 28    |
 | 29    | 30    |       |       |       |       |       |
+
+
+Regio Midden week 4 mei
+Regio Randstad week 18 mei
+Regio Noord week 1 juni
+Regio Oost week 15 juni
+Regio Zuid week 22 juni
